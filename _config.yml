@@ -2,9 +2,9 @@
 title: Omics
 author: Krishna 
 #email: your-email@domain.com
-description: Working on Ipythin notebook
+#description: Working on Ipythin notebook
 github_username: krishnakantsingh14
-
+linkedin : krishnakant-singh
 # Build settings
 markdown: kramdown
 theme: minima
