@@ -1,1 +1,12 @@
-theme: jekyll-theme-cayman
+# basic options
+title: Your awesome title
+author: GitHub User
+#email: your-email@domain.com
+#description: A wonderful site
+github_username: krishnakantsingh14
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+#theme: jekyll-theme-cayman
